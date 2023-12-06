@@ -4,6 +4,6 @@
 
 | #    | Наименование проекта                | Описание                                                     | Стек                                                         |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 1.   | > [DWH-Bank](https://github.com/dalv119/Data_Engineer/tree/main/Projects/DWH-Bank) | Cоздание хранилища DWH (SCD2) с ветриной данных по мошенническим операциям  <br/> | python, PostgreSQL, pandas, psycopg2, shutil, os       |
-| 2.   | > [DWH-Taxi](https://github.com/dalv119/Data_Engineer/tree/main/Projects/DWH-Taxi) | Проект по созданию ETL процесса с хранилищем данных DWH SCD2 в компании такси и витриной отчетов (Выплата водителям - Водители-нарушители - Перерабатывающие водители - “Знай своего клиента”)| python, PostgreSQL, pandas, psycopg2, shutil, os |
+| 1.   | > [DWH-Bank](https://github.com/dalv119/Portfolio/tree/main/DWH-Bank) | Cоздание хранилища DWH (SCD2) с ветриной данных по мошенническим операциям  <br/> | python, PostgreSQL, pandas, psycopg2, shutil, os       |
+| 2.   | > [DWH-Taxi](https://github.com/dalv119/Portfolio/tree/main/DWH-Taxi) | Проект по созданию ETL процесса с хранилищем данных DWH SCD2 в компании такси и витриной отчетов (Выплата водителям - Водители-нарушители - Перерабатывающие водители - “Знай своего клиента”)| python, PostgreSQL, pandas, psycopg2, shutil, os |
 | 3.   |  |             |  |
