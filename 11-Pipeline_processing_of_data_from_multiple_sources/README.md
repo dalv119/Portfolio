@@ -8,4 +8,4 @@
 2. Понять, как выглядит динамика оборота всей компании и что приводит к его изменениям. 
 
 ## Инструменты
-> Python, Postgre SQL, Airflow, Vertica, Metabase
+> Python, PostgreSQL, Airflow, Vertica, Metabase
