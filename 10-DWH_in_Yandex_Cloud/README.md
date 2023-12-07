@@ -11,3 +11,7 @@
    
 ## Инструменты
 > Yandex Cloud, Kubernetes, Redis, PostgreSQL , Docker, Python, Kafka, SQL, DataLens
+### Навыки
+- создание микросервисов;
+- потоковая обработка данных;
+- развёртывание инфраструктуры в Yandex Cloud.
